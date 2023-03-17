@@ -1,0 +1,19 @@
+{
+  "name": "use-low-typescript-version",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cengit/use-low-typescript-version.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "homepage": "https://github.com/cengit/use-low-typescript-version#readme",
+  "dependencies": {
+    "typescript": "^3.8.3"
+  }
+}
