@@ -14,6 +14,7 @@
   "license": "MIT",
   "homepage": "https://github.com/cengit/use-low-typescript-version#readme",
   "dependencies": {
+    "@react-native-community/bob": "^0.16.2",
     "typescript": "^3.8.3"
   }
 }
